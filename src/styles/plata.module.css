@@ -1,0 +1,29 @@
+.plata {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+.plata p,
+.plata li {
+  text-align: justify;
+}
+.plata h2 {
+  text-align: left;
+}
+.tutorial {
+  margin-bottom: 1rem;
+}
+.plata li {
+  padding-left: 1rem;
+  list-style: inside;
+}
+@media (max-width: 1250px) {
+  .plata {
+    width: 90%;
+  }
+}
+@media (max-width: 450px) {
+  .plata {
+    width: 95%;
+  }
+}

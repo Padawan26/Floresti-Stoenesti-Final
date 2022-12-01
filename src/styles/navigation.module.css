@@ -1,0 +1,19 @@
+* .text {
+  font-weight: 500;
+  font-size: 1.3rem;
+  text-align: center;
+  padding-left: 0.5rem;
+  line-height: 1.5rem;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+.poza {
+  width: 80px;
+}
+.logo p {
+  margin: 0;
+}

@@ -1,0 +1,16 @@
+.link {
+  text-decoration: none;
+  font-size: 1.2rem;
+  padding: 0.7rem;
+}
+.link:hover {
+  color: #fff;
+  background-color: #0c92da;
+}
+.nav {
+  padding: 0;
+  list-style: none;
+}
+.nav li {
+  margin: 1rem 0;
+}

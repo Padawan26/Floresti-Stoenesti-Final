@@ -1,0 +1,13 @@
+.acte {
+  line-height: 2rem;
+}
+.acte li {
+  padding-left: 1rem;
+  list-style: inside;
+}
+.acte table {
+  text-align: center;
+}
+.acte h2 {
+  margin-bottom: 1rem;
+}

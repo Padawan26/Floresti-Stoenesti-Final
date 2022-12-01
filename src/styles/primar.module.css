@@ -1,0 +1,102 @@
+.name {
+  text-align: center;
+  margin: 3rem 0;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 75%;
+  max-width: 1000px;
+  min-width: 200px;
+  margin: 0 auto;
+}
+.poza {
+  height: 150px;
+  width: 169px;
+  margin: 0 auto;
+}
+.pozDiv {
+  min-width: 40%;
+}
+.cardHeader {
+  text-align: center;
+  display: flex;
+  background-color: #004172;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  max-width: 700px;
+  padding-top: 1rem;
+  border-radius: 1rem 1rem 0 0;
+}
+
+.cardTitle {
+  padding: 2rem 2rem;
+  width: 70%;
+  color: #fff;
+}
+
+.cardBody {
+  text-align: justify;
+  background-color: #fff;
+  font-size: 1.7rem;
+  font-weight: 600;
+  width: 100%;
+  max-width: 700px;
+  height: 9rem;
+  padding: 2rem 3rem;
+}
+
+.cardLink {
+  width: 100%;
+  max-width: 700px;
+  background-color: #004172;
+  padding: 0.8rem;
+  height: 3.2rem;
+}
+.cardLink a {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border: 2px solid #fff;
+  border-radius: 1rem;
+  width: 10rem;
+  margin: 0 auto;
+}
+.cardLink a:hover {
+  color: #0c92da;
+  border-color: #0c92da;
+}
+
+@media (max-width: 800px) {
+  .card {
+    width: 55%;
+  }
+  .cardTitle {
+    width: 100%;
+  }
+  .cardHeader {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .cardBody {
+    height: 16rem;
+    padding: 1rem 2rem;
+    text-align: justify;
+  }
+}
+@media (max-width: 550px) {
+  .card {
+    width: 70%;
+  }
+  .cardBody {
+    height: 19rem;
+    padding: 1rem 2rem;
+  }
+}
