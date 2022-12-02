@@ -22,6 +22,17 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
       options: {
         url: `http://staging.floresti-stoenesti.ro/graphql`,
+        develop: {
+          hardCacheMediaFiles: true,
+        },
+        production: {
+          hardCacheMediaFiles: true,
+        },
+      },
+      schema: {
+        timeout: 10000000,
+        perPage: 100,
+        requestConcurrency: 50,
       },
     },
   ],

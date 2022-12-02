@@ -8,9 +8,9 @@ import { CgProfile } from "react-icons/cg"
 import * as styles from "../styles/news.module.css"
 const PostTemplate = ({ data }) => {
   const { title, content, featuredImage, date, author } = data.wpPost
-  const imagePath = getImage(
+  const imagePath = featuredImage?.node?.localFile?.childImageSharp?.gatsbyImageData ? getImage(
     featuredImage.node.localFile.childImageSharp.gatsbyImageData
-  )
+  ) : ""
 
   return (
     <div className="pageContainer">

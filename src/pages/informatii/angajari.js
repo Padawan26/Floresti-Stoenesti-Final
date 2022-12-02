@@ -50,7 +50,7 @@ const Angajari = ({ data }) => {
               return (
                 <div key={post.id} className={styles.post}>
                   <div className={styles.top}>
-                    <Link to={post.uri}>
+                    <Link to={'/'+post.slug}>
                       <GatsbyImage
                         image={pathToImage}
                         alt="image"
@@ -59,7 +59,7 @@ const Angajari = ({ data }) => {
                       />
                     </Link>
                     <div className={styles.text}>
-                      <Link to={post.uri}>
+                      <Link to={'/'+post.slug}>
                         <h2>{post.title}</h2>
                       </Link>
                       <p
@@ -79,7 +79,7 @@ const Angajari = ({ data }) => {
                         <CgProfile /> <p>{post.author.node.name}</p>
                       </div>
                     </div>
-                    <Link to={post.uri} className={styles.link}>
+                    <Link to={'/'+post.slug} className={styles.link}>
                       <ImCircleRight />
                       Citește întreg articolul
                     </Link>
@@ -112,6 +112,7 @@ export const query = graphql`
         title
         excerpt
         uri
+        slug
         date(formatString: "DD-MM-YYYY")
         author {
           node {
