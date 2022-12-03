@@ -27,7 +27,7 @@ h1 {
 }
 /* Hero Text */
 .hero-caption {
-  font-size: 4rem;
+  font-size: 4vw;
   color: #fff;
   text-align: center;
   animation: zoomInLeft;
