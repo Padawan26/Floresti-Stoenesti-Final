@@ -10,7 +10,7 @@ export default function hotarari2015() {
         <h1>Hotărâri 2015</h1>
         <div className="list">
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr1-09.02.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr1-09.02.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -21,7 +21,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr2-09.02.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr2-09.02.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -32,7 +32,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr3-09.02.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr3-09.02.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -44,7 +44,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr4-09.02.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr4-09.02.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -54,7 +54,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr5-09.02.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr5-09.02.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -66,7 +66,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-09.02.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-09.02.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -77,7 +77,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr6-18.03.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr6-18.03.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -90,7 +90,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr7-18.03.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr7-18.03.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -102,7 +102,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr8-18.03.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr8-18.03.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -114,7 +114,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr9-18.03.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr9-18.03.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -125,7 +125,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr10-18.03.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr10-18.03.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -136,7 +136,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr11-18.03.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr11-18.03.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -149,7 +149,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-18.03.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-18.03.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -160,7 +160,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr12-02.04.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr12-02.04.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -172,7 +172,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr13-02.04.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr13-02.04.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -188,7 +188,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr14-02.04.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr14-02.04.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -200,7 +200,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr15-02.04.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr15-02.04.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -211,7 +211,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-02.04.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-02.04.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -222,7 +222,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr16-29.05.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr16-29.05.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -236,7 +236,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr17-29.05.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr17-29.05.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -251,7 +251,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr18-29.05.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr18-29.05.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -263,7 +263,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr19-29.05.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr19-29.05.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -274,7 +274,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr20-29.05.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr20-29.05.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -285,7 +285,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-29.05.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-29.05.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -296,7 +296,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr21-03.07.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr21-03.07.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -308,7 +308,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr22-03.07.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr22-03.07.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -320,7 +320,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-03.07.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-03.07.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -331,7 +331,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr24-07.08.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr24-07.08.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -343,7 +343,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr25-07.08.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr25-07.08.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -354,7 +354,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr26-07.08.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr26-07.08.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -370,7 +370,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr27-07.08.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr27-07.08.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -382,7 +382,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-03.07.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-03.07.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -393,7 +393,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr28-23.09.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr28-23.09.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -406,7 +406,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr29-23.09.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr29-23.09.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -419,7 +419,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr30-23.09.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr30-23.09.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -431,7 +431,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr31-23.09.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr31-23.09.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -443,7 +443,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr32-23.09.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr32-23.09.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -455,7 +455,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-23.09.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-23.09.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -466,7 +466,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr33-09.11.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr33-09.11.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -478,7 +478,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr34-27.11.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr34-27.11.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -490,7 +490,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr35-27.11.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr35-27.11.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -501,7 +501,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr36-27.11.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr36-27.11.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -512,7 +512,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr37-27.11.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr37-27.11.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -523,7 +523,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr38-27.11.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr38-27.11.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -538,7 +538,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr39-27.11.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr39-27.11.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -550,7 +550,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-27.11.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-27.11.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -561,7 +561,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr40-18.12.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr40-18.12.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -572,7 +572,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr41-18.12.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr41-18.12.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -583,7 +583,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr42-18.12.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr42-18.12.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -595,7 +595,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr43-18.12.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr43-18.12.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -609,7 +609,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-18.12.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-18.12.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -620,7 +620,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr44-23.12.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr44-23.12.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -631,7 +631,7 @@ export default function hotarari2015() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-23.12.2015.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/ProcesVerbal-23.12.2015.pdf"
             target="_blank"
             rel="noreferrer"
           >

@@ -10,7 +10,7 @@ export default function hotarari2022() {
         <h1>Hotărâri 2022</h1>
         <div className="list">
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL01-06.01.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL01-06.01.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -21,7 +21,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL02-06.01.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL02-06.01.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -32,7 +32,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL03-28.01.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL03-28.01.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -47,7 +47,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL04-28.01.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL04-28.01.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -61,7 +61,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL05-28.01.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL05-28.01.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -75,7 +75,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL06-28.01.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL06-28.01.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -87,7 +87,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL07-28.01.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL07-28.01.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -98,7 +98,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL08-07.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL08-07.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -108,7 +108,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL09-07.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL09-07.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -120,7 +120,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL10-07.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL10-07.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -132,7 +132,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL11-07.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL11-07.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -144,7 +144,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL12-15.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL12-15.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -158,7 +158,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL13-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL13-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -169,7 +169,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL14-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL14-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -180,7 +180,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL15-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL15-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -191,7 +191,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL16-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL16-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -202,7 +202,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL17-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL17-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -213,7 +213,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL18-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL18-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -226,7 +226,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL19-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL19-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -237,7 +237,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL20-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL20-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -249,7 +249,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL21-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL21-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -267,7 +267,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL22-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL22-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -281,7 +281,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL23-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL23-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -293,7 +293,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL24-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL24-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -306,7 +306,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL25-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL25-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -318,7 +318,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL26-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL26-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -331,7 +331,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL27-07.03.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/03/HCL27-07.03.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -346,7 +346,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL28-05.04.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL28-05.04.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -358,7 +358,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL29-05.04.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL29-05.04.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -370,7 +370,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL30-05.04.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL30-05.04.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -385,7 +385,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL31-05.04.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL31-05.04.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -396,6 +396,158 @@ export default function hotarari2022() {
               dosarului - Anulare act administrativ, Reclamant - Agenția
               Națională de Integritate, Parat - Consiliul Local
               Florești-Stoenești.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL32-19.04.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+              HOTĂRÂREA NR.32, privind indexarea și stabilirea impozitelor și
+              taxelor locale, precum și a taxelor speciale, aplicabile în anul
+              2023 cu rată inflației în procent de 5,1%.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL33-19.04.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.33, privind prelungirea termenului de depunere a cererilor 
+            în vederea instituirii unor facilități fiscale și aprobarea procedurii de 
+            anulare a accesoriilor aferente obligațiilor bugetare principale restante 
+            la data de 31.03.2020 inclusiv, datorate bugetului local de către contribuabilii 
+            de pe raza administrativ teritorială comuna Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL34-19.04.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.34, privind aprobarea contului de execuție al bugetului de 
+            venituri și cheltuieli al comunei Florești-Stoenești, județul Giurgiu 
+            pentru trimestrul I al anului 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL35-19.04.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.35, privind aprobarea cererii de finanțare și a devizului 
+            general pentru obiectivul "Extindere sistem de distribuție gaze naturale 
+            în comună Florești-Stoenești, județul Giurgiu" în vederea depunerii cererii 
+            de finanțare prin Programul Național de Investiții "Anghel Saligny".
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/04/HCL36-19.04.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.36, cu privire la alegerea președintelui de ședința.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/05/HCL37-09.05.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.37, cu privirela aprobarea Studiului de oportunitate, 
+            Regulamentului și Caietului de sarcini pentru delegarea gestiunii 
+            Serviciului de salubrizare al Comunei Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/05/HCL38-09.05.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.38, cu privire la modificarea și aprobarea Organigramei 
+            și Statului de funcții al aparatului de specialitate al primarului 
+            comunei FLOREȘTI-STOENEȘTI.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/05/HCL39-09.05.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.39, privind aprobarea proiectului "Amenajare piste biciclete 
+            în Comună Florești-Stoenești Județul Giurgiu" depus spre finanțare în 
+            cadrul Planului Național de Redresare și Reziliență și a cheltuierilor 
+            legate de acest proiect.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/06/HCL40-06.06.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.40, privind predarea către Ministerul Dezvoltării Lucrărilor 
+            Publice și Administrației prin Compania Națională de Investiții "C.N.I." 
+            S.A., a amplasamentului și asigurarea condițiilor în vederea executării 
+            obiectivului de investiții ,,Proiect tip - Construire creșă mică în comună 
+            Florești-Stoenești, județul Giurgiu".
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/06/HCL41-06.06.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.41, privind aprobarea încheierii contractului de 
+            sponsorizare  între comună Florești-Stoenești, județul Giurgiu 
+            și Agenția pentru Protecția Mediului Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/06/HCL42-06.06.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.42, privind aprobarea modificării Hotărârii Consiliului 
+            Local nr. 4 din 28.01.2022 în sensul înlăturării din preambul a ,,În 
+            conformitate cu prevederile art. 1, art. 3, lit. o), art. 4, alin.(1), 
+            lit. a),, art. 187, alin. (8), lit. a) din Legea nr. 98/2016 privind 
+            achizițiile publice"
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/06/HCL43-06.06.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            HOTĂRÂREA NR.43, privind aprobarea modificării Hotărârii Consiliului 
+            Local nr. 5din 28.01.2022 în sensul înlăturării din preambul a ,,În 
+            conformitate cu prevederile art. 1, art. 3, lit. o), art. 4, alin.(1), 
+            lit. a),, art. 187, alin. (8), lit. a) din Legea nr. 98/2016 privind 
+            achizițiile publice"
               <VscFilePdf style={style} />
             </div>
           </a>

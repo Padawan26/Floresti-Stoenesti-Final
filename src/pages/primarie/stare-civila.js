@@ -9,7 +9,7 @@ const StareCivila = () => {
         <h1>Stare Civilă</h1>
         <div className="list">
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Declaratie-de-casatorie-nr.89.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Declaratie-de-casatorie-nr.89.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -21,7 +21,7 @@ const StareCivila = () => {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Declaratie-de-casatorie-nr.91.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Declaratie-de-casatorie-nr.91.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -32,7 +32,7 @@ const StareCivila = () => {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2014/04/Declaratie-de-casatorie-nr.99.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2014/04/Declaratie-de-casatorie-nr.99.pdf"
             target="_blank"
             rel="noreferrer"
           >

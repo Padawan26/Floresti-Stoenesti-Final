@@ -10,7 +10,7 @@ export default function hotarari2020() {
         <h1>Hotărâri 2020</h1>
         <div className="list">
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/PVS01-30.01.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/PVS01-30.01.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -21,7 +21,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/HCL01-27.02.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL01-27.02.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -32,7 +32,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/HCL02-27.02.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL02-27.02.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -43,7 +43,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/HCL03-27.02.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL03-27.02.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -54,7 +54,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/HCL04-27.02.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL04-27.02.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -65,7 +65,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/HCL05-27.02.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL05-27.02.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -76,7 +76,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/HCL06-27.02.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL06-27.02.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -88,7 +88,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/HCL07-27.02.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL07-27.02.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -101,7 +101,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/PVS02-27.02.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/PVS02-27.02.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -112,7 +112,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL08-19.03.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL08-19.03.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -124,7 +124,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2020/PVS03-19.03.2020.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2020/PVS03-19.03.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -135,7 +135,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL09-27.03.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL09-27.03.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -147,7 +147,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL10-27.03.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL10-27.03.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -160,7 +160,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/PVS04-27.03.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/PVS04-27.03.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -171,7 +171,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/PVS05-30.04.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/PVS05-30.04.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -182,7 +182,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL11-28.05.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL11-28.05.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -193,7 +193,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/PVS06-28.05.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/PVS06-28.05.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -204,7 +204,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL12-25.06.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL12-25.06.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -216,7 +216,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL13-25.06.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL13-25.06.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -228,7 +228,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL14-25.06.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL14-25.06.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -242,7 +242,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL15-25.06.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL15-25.06.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -253,7 +253,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL16-25.06.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL16-25.06.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -264,7 +264,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/PVS07-25.06.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/PVS07-25.06.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -275,7 +275,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL17-08.07.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL17-08.07.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -287,7 +287,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/PVS08-08.07.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/PVS08-08.07.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -298,7 +298,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL18-27.08.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL18-27.08.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -312,7 +312,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL19-27.08.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL19-27.08.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -324,7 +324,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL20-27.08.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL20-27.08.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -337,7 +337,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL21-27.08.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL21-27.08.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -349,7 +349,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL22-27.08.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL22-27.08.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -361,7 +361,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL23-27.08.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL23-27.08.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -373,7 +373,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/PVS09-27.08.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/PVS09-27.08.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -384,7 +384,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL24-03.09.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL24-03.09.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -396,7 +396,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL25-03.09.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL25-03.09.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -408,7 +408,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL26-03.09.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL26-03.09.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -420,7 +420,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL01-30.10.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL01-30.10.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -431,7 +431,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL02-30.10.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL02-30.10.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -443,7 +443,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL03-30.10.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL03-30.10.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -454,7 +454,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL04-04.11.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL04-04.11.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -466,7 +466,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL05-04.11.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL05-04.11.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -479,7 +479,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL06-04.11.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL06-04.11.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -491,7 +491,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL07-04.11.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL07-04.11.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -503,7 +503,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL08-25.11.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL08-25.11.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -515,7 +515,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL09-25.11.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL09-25.11.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -527,7 +527,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL10-25.11.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL10-25.11.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -539,7 +539,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL11-25.11.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL11-25.11.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -552,7 +552,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL12-10.12.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL12-10.12.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -564,7 +564,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL13-10.12.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL13-10.12.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -575,7 +575,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL14-10.12.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL14-10.12.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -587,7 +587,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL15-10.12.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL15-10.12.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -599,7 +599,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/HCL16-10.12.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL16-10.12.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >

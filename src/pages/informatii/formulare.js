@@ -15,7 +15,7 @@ const Formulare = () => {
           <h2 style={{ textAlign: "center", margin: "1rem 0" }}>URBANISM</h2>
           <div className="list">
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-emiterea-autorizatiei-de-construire-desfiintare.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-emiterea-autorizatiei-de-construire-desfiintare.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -25,7 +25,7 @@ const Formulare = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-emiterea-certificatului-de-urbanism.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-emiterea-certificatului-de-urbanism.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -35,7 +35,7 @@ const Formulare = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-prelungirea-valabilitatii-certificatului-de-urbanism.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-prelungirea-valabilitatii-certificatului-de-urbanism.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -46,7 +46,7 @@ const Formulare = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Autorizatie-de-construire-desfiintare.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Autorizatie-de-construire-desfiintare.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -56,7 +56,7 @@ const Formulare = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Certificat-de-urbanism.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Certificat-de-urbanism.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -77,7 +77,7 @@ const Formulare = () => {
           </h2>
           <div className="list">
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-alocatie-stat-copii-1-18ani.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-alocatie-stat-copii-1-18ani.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -88,7 +88,7 @@ const Formulare = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-alocatie-stat-pentru-tineri-de-peste-18-ani.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-alocatie-stat-pentru-tineri-de-peste-18-ani.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -98,7 +98,7 @@ const Formulare = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-alocatie-suplimentara.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-alocatie-suplimentara.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -108,7 +108,7 @@ const Formulare = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-acordarea-indemnizatiei-de-crestere-a-copilului.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-acordarea-indemnizatiei-de-crestere-a-copilului.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -118,7 +118,7 @@ const Formulare = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-ajutor-social.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-pentru-ajutor-social.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -138,7 +138,7 @@ const Formulare = () => {
           </h2>
           <div className="list">
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Deschiderea-pozitiei-de-rol-in-registrul-agricol.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Deschiderea-pozitiei-de-rol-in-registrul-agricol.pdf"
               target="_blank"
               rel="noreferrer"
               className="pdf-link"
@@ -149,7 +149,7 @@ const Formulare = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-eliberare-certificat-producator-Anexa-nr.2.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/09/Cerere-eliberare-certificat-producator-Anexa-nr.2.pdf"
               target="_blank"
               rel="noreferrer"
             >

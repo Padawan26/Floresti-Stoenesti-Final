@@ -10,7 +10,7 @@ export default function hotarari2021() {
         <h1>Hotărâri 2021</h1>
         <div className="list">
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL01-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL01-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -21,7 +21,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL02-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL02-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -32,7 +32,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL03-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL03-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -44,7 +44,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL04-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL04-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -55,7 +55,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL05-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL05-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -66,7 +66,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL06-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL06-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -80,7 +80,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL07-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL07-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -92,7 +92,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL08-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL08-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -104,7 +104,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL09-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL09-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -116,7 +116,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL10-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL10-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -129,7 +129,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL11-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL11-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -144,7 +144,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL12-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL12-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -158,7 +158,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL13-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/01/HCL13-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -170,7 +170,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/02/PVS01-29.01.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/02/PVS01-29.01.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -181,7 +181,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL14-25.02.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL14-25.02.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -193,7 +193,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL15-25.02.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL15-25.02.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -205,7 +205,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL16-25.02.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL16-25.02.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -221,7 +221,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL17-25.02.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL17-25.02.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -236,7 +236,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL18-25.02.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL18-25.02.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -247,7 +247,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL19-25.02.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/02/HCL19-25.02.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -261,7 +261,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL20-31.03.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL20-31.03.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -274,7 +274,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL21-31.03.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL21-31.03.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -287,7 +287,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL22-31.03.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL22-31.03.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -298,7 +298,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL23-31.03.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL23-31.03.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -309,7 +309,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL24-31.03.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL24-31.03.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -320,7 +320,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL25-31.03.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL25-31.03.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -331,7 +331,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL26-31.03.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL26-31.03.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -343,7 +343,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL27-31.03.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL27-31.03.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -356,7 +356,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL28-31.03.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/03/HCL28-31.03.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -368,7 +368,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL29-14.04.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL29-14.04.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -379,7 +379,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL30-14.04.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL30-14.04.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -391,7 +391,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL31-14.04.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL31-14.04.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -403,7 +403,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL32-14.04.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL32-14.04.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -420,7 +420,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL33-22.04.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL33-22.04.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -432,7 +432,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL34-22.04.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL34-22.04.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -445,7 +445,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL35-22.04.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL35-22.04.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -458,7 +458,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL36-22.04.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL36-22.04.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -470,7 +470,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL37-22.04.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/04/HCL37-22.04.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -482,7 +482,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/05/HCL38-19.05.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/05/HCL38-19.05.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -492,7 +492,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/05/HCL39-19.05.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/05/HCL39-19.05.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -506,7 +506,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/06/HCL40-31.05.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/06/HCL40-31.05.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -518,7 +518,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/06/HCL41-31.05.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/06/HCL41-31.05.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -530,7 +530,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/06/HCL42-31.05.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/06/HCL42-31.05.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -542,7 +542,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/06/HCL43-31.05.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/06/HCL43-31.05.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -557,7 +557,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL44-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL44-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -572,7 +572,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL45-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL45-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -584,7 +584,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL46-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL46-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -596,7 +596,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL47-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL47-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -608,7 +608,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL48-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL48-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -620,7 +620,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL49-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL49-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -632,7 +632,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL50-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL50-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -644,7 +644,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL51-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL51-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -658,7 +658,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL52-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL52-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -669,7 +669,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL53-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL53-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -680,7 +680,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL54-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL54-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -691,7 +691,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL55-30.06.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL55-30.06.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -705,7 +705,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL56-26.07.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL56-26.07.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -717,7 +717,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL57-26.07.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL57-26.07.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -731,7 +731,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL58-26.07.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL58-26.07.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -743,7 +743,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL59-26.07.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL59-26.07.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -755,7 +755,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL60-26.07.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL60-26.07.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -768,7 +768,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL61-26.07.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/07/HCL61-26.07.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -778,7 +778,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL62-31.08.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL62-31.08.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -791,7 +791,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL63-31.08.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL63-31.08.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -803,7 +803,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL64-31.08.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL64-31.08.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -817,7 +817,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL65-31.08.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL65-31.08.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -831,7 +831,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL66-31.08.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL66-31.08.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -843,7 +843,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL67-17.09.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL67-17.09.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -855,7 +855,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL68-17.09.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL68-17.09.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -874,7 +874,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL69-17.09.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL69-17.09.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -887,7 +887,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL70-17.09.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL70-17.09.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -899,7 +899,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL71-17.09.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/09/HCL71-17.09.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -912,7 +912,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL72-30.09.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL72-30.09.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -925,7 +925,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL73-30.09.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL73-30.09.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -937,7 +937,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL74-14.10.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL74-14.10.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -949,7 +949,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL75-21.10.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL75-21.10.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -961,7 +961,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL76-21.10.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/10/HCL76-21.10.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -973,7 +973,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL77-29.10.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL77-29.10.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -983,7 +983,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL78-29.10.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL78-29.10.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -996,7 +996,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL79-29.10.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL79-29.10.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1010,7 +1010,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL80-05.11.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL80-05.11.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1022,7 +1022,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL82-25.11.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL82-25.11.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1034,7 +1034,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL83-25.11.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL83-25.11.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1046,7 +1046,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL85-25.11.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL85-25.11.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1060,7 +1060,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL87-25.11.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/11/HCL87-25.11.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1072,7 +1072,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL88-14.12.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL88-14.12.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1084,7 +1084,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL89-14.12.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL89-14.12.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1097,7 +1097,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL90-14.12.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL90-14.12.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1109,7 +1109,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL91-14.12.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL91-14.12.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1120,7 +1120,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL92-14.12.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL92-14.12.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1131,7 +1131,7 @@ export default function hotarari2021() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL93-22.12.2021.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2021/12/HCL93-22.12.2021.pdf"
             target="_blank"
             rel="noreferrer"
           >

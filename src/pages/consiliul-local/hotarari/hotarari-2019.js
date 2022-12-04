@@ -10,7 +10,7 @@ export default function hotarari2019() {
         <h1>Hotărâri 2019</h1>
         <div className="list">
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL01-23.01.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL01-23.01.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -21,7 +21,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL02-23.01.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL02-23.01.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -33,7 +33,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL03-23.01.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL03-23.01.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -44,7 +44,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL04-23.01.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL04-23.01.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -59,7 +59,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL05-23.01.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL05-23.01.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -70,7 +70,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS01-23.01.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS01-23.01.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -81,7 +81,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL06-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL06-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -93,7 +93,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL07-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL07-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -105,7 +105,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL08-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL08-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -116,7 +116,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL09-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL09-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -128,7 +128,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL10-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL10-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -141,7 +141,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL11-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL11-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -152,7 +152,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL12-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL12-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -163,7 +163,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL13-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL13-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -174,7 +174,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL14-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL14-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -185,7 +185,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL15-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL15-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -197,7 +197,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL16-27.02.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL16-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -209,7 +209,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS02-27.02.2019.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS02-27.02.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -220,7 +220,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL17-28.03.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL17-28.03.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -233,7 +233,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL18-28.03.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL18-28.03.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -245,7 +245,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS03-28.03.2019.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS03-28.03.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -256,7 +256,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL19-18.04.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL19-18.04.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -268,7 +268,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL20-18.04.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL20-18.04.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -280,7 +280,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2013/04/Hotarare-Nr25-05-04-2013.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2013/04/Hotarare-Nr25-05-04-2013.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -292,7 +292,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2013/04/Hotarare-Nr26-05-04-2013.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2013/04/Hotarare-Nr26-05-04-2013.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -304,7 +304,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL23-18.04.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL23-18.04.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -315,7 +315,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS04-18.04.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS04-18.04.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -326,7 +326,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL24-30.05.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL24-30.05.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -338,7 +338,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL25-30.05.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL25-30.05.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -351,7 +351,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL26-30.05.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL26-30.05.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -363,7 +363,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL27-30.05.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL27-30.05.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -376,7 +376,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL28-30.05.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL28-30.05.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -392,7 +392,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS05-30.05.2019.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS05-30.05.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -403,7 +403,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS06-26.06.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS06-26.06.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -417,7 +417,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS06-26.06.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS06-26.06.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -428,7 +428,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL30-25.07.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL30-25.07.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -440,7 +440,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL31-25.07.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL31-25.07.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -452,7 +452,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL32-25.07.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL32-25.07.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -463,7 +463,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL33-25.07.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL33-25.07.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -475,7 +475,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS07-25.07.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS07-25.07.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -486,7 +486,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL34-29.08.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL34-29.08.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -498,7 +498,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS08-29.08.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS08-29.08.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -509,7 +509,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL35-26.09.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL35-26.09.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -522,7 +522,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL36-26.09.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL36-26.09.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -535,7 +535,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL37-26.09.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL37-26.09.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -547,7 +547,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL38-26.09.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL38-26.09.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -559,7 +559,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL39-26.09.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL39-26.09.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -571,7 +571,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS09-26.09.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS09-26.09.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -582,7 +582,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL40-24.10.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL40-24.10.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -596,7 +596,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL41-24.10.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL41-24.10.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -607,7 +607,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL42-24.10.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL42-24.10.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -619,7 +619,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL43-24.10.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL43-24.10.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -631,7 +631,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL44-24.10.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL44-24.10.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -643,7 +643,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL45-24.10.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL45-24.10.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -659,7 +659,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS10-24.10.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS10-24.10.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -670,7 +670,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL46-21.11.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL46-21.11.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -681,7 +681,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL47-21.11.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL47-21.11.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -693,7 +693,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL48-21.11.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL48-21.11.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -705,7 +705,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS11-21.11.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS11-21.11.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -716,7 +716,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL49-18.12.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL49-18.12.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -728,7 +728,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL50-18.12.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL50-18.12.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -739,7 +739,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL51-18.12.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL51-18.12.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -751,7 +751,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS12-18.12.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS12-18.12.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -762,7 +762,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL52-30.12.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/HCL52-30.12.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -775,7 +775,7 @@ export default function hotarari2019() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS13-30.12.2019.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2019/01/PVS13-30.12.2019.pdf"
             target="_blank"
             rel="noreferrer"
           >

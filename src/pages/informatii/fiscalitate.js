@@ -11,7 +11,7 @@ const Fiscalitate = () => {
         <div className="block" style={{ padding: "2rem 1rem" }}>
           <div className="list">
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr08-30-03-2010.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr08-30-03-2010.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -22,7 +22,7 @@ const Fiscalitate = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Anexa1-la-Hotarare-Nr08-30-03-2010.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Anexa1-la-Hotarare-Nr08-30-03-2010.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -32,7 +32,7 @@ const Fiscalitate = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Anexa2-la-Hotarare-Nr08-30-03-2010.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Anexa2-la-Hotarare-Nr08-30-03-2010.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -42,7 +42,7 @@ const Fiscalitate = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/referat-taxe-si-impozite-2010.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/referat-taxe-si-impozite-2010.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -53,7 +53,7 @@ const Fiscalitate = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr29-25-06-2010.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr29-25-06-2010.pdf"
               target="_blank"
               rel="noreferrer"
             >

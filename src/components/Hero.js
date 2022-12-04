@@ -5,10 +5,10 @@ import "animate.css"
 
 const Hero = () => {
   return (
-    <Carousel>
+    <Carousel fade pause={"hover"}>
       <Carousel.Item>
         <StaticImage
-          className="d-block w-100 h-50"
+          className="d-block width-100"
           src="../images/Slide 1.jpg"
           alt="First slide"
           placeholder="tracedSVG"
@@ -19,7 +19,7 @@ const Hero = () => {
       </Carousel.Item>
       <Carousel.Item>
         <StaticImage
-          className="d-block w-100 h-50"
+          className="d-block"
           src="../images/Slide 2.jpg"
           alt="Second slide"
           placeholder="tracedSVG"
@@ -30,7 +30,7 @@ const Hero = () => {
       </Carousel.Item>
       <Carousel.Item>
         <StaticImage
-          className="d-block w-100 h-50"
+          className="d-block"
           src="../images/Slide 3.jpg"
           alt="Third slide"
           placeholder="tracedSVG"

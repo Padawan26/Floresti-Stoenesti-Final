@@ -11,7 +11,7 @@ const Dispozitii = () => {
         <h1>Dispozițiile Primarului</h1>
         <div className="list">
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2020/03/Dispozitia-primarului-nr-0100-2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/03/Dispozitia-primarului-nr-0100-2020.pdf"
             target="_blank"
             rel="noreferrer"
           >

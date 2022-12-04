@@ -15,7 +15,7 @@ const Buget = () => {
           <h2 style={{ textAlign: "center", margin: "1rem 0" }}>2022</h2>
           <div className="list">
             <a
-              href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/Anunt-poiect-buget-2022.pdf"
+              href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/Anunt-poiect-buget-2022.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -27,7 +27,7 @@ const Buget = () => {
               </div>
             </a>
             <a
-              href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/PHCL02-2022.pdf"
+              href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/PHCL02-2022.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -38,7 +38,7 @@ const Buget = () => {
               </div>
             </a>
             <a
-              href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/Anexa-buget-2022.pdf"
+              href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/Anexa-buget-2022.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -49,7 +49,7 @@ const Buget = () => {
               </div>
             </a>
             <a
-              href="https://floresti-stoenesti.ro/wp-content/uploads/2022/01/Anexa-2-3-buget-2022.pdf"
+              href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/Anexa-2-3-buget-2022.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -67,7 +67,7 @@ const Buget = () => {
         >
           <div className="list">
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Lista-investitiilor-pe-anul-2011.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Lista-investitiilor-pe-anul-2011.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -77,7 +77,7 @@ const Buget = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2013/04/Raport-privind-necesitatea-aprobarii-proiectului-de-buget-de-venituri-si-cheltuieli-pe-anul-2013.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2013/04/Raport-privind-necesitatea-aprobarii-proiectului-de-buget-de-venituri-si-cheltuieli-pe-anul-2013.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -89,7 +89,7 @@ const Buget = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2013/04/Proiect-buget-venituri-si-cheltuieli-pe-anul-2013-si-estimarile-anilor-2014-2016.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2013/04/Proiect-buget-venituri-si-cheltuieli-pe-anul-2013-si-estimarile-anilor-2014-2016.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -100,7 +100,7 @@ const Buget = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2013/04/Lista-obiectivelor-de-investitii-pe-anul-2013-cu-finantare-partiala-sau-integrala-de-la-bugetul-local-repartizate-pentru-cheltuieli-de-capital.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2013/04/Lista-obiectivelor-de-investitii-pe-anul-2013-cu-finantare-partiala-sau-integrala-de-la-bugetul-local-repartizate-pentru-cheltuieli-de-capital.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -112,7 +112,7 @@ const Buget = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr10-07.02.2014.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr10-07.02.2014.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -124,7 +124,7 @@ const Buget = () => {
               </div>
             </a>
             <a
-              href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr1-09.02.2015.pdf"
+              href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr1-09.02.2015.pdf"
               target="_blank"
               rel="noreferrer"
             >

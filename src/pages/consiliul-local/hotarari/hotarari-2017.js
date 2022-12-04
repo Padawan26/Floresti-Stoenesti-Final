@@ -10,7 +10,7 @@ export default function hotarari2017() {
         <h1>Hotărâri 2017</h1>
         <div className="list">
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL01-09.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL01-09.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -22,7 +22,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL02-09.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL02-09.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -35,7 +35,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-09.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-09.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -46,7 +46,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL03-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL03-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -58,7 +58,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL04-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL04-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -71,7 +71,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL05-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL05-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -83,7 +83,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL06-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL06-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -95,7 +95,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL07-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL07-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -107,7 +107,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL08-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL08-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -118,7 +118,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL09-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL09-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -130,7 +130,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL10-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL10-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -142,7 +142,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL11-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL11-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -154,7 +154,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL12-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL12-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -170,7 +170,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-30.01.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-30.01.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -181,7 +181,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL13-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL13-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -199,7 +199,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL14-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL14-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -217,7 +217,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL15-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL15-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -230,7 +230,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL16-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL16-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -240,7 +240,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL17-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL17-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -253,7 +253,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL18-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL18-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -263,7 +263,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL19-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL19-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -273,7 +273,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL20-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL20-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -285,7 +285,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL21-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL21-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -297,7 +297,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL22-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL22-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -308,7 +308,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL23-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL23-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -319,7 +319,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL24-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL24-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -332,7 +332,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL25-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL25-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -344,7 +344,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL26-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL26-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -355,7 +355,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-27.02.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-27.02.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -366,7 +366,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL27-06.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL27-06.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -376,7 +376,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL28-06.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL28-06.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -386,7 +386,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr35-12.07.2013.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr35-12.07.2013.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -398,7 +398,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-06.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-06.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -409,7 +409,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL29-29.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL29-29.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -420,7 +420,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL30-29.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL30-29.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -432,7 +432,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL29-29.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL29-29.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -445,7 +445,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL32-29.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL32-29.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -459,7 +459,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL33-29.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL33-29.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -471,7 +471,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL34-29.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL34-29.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -481,7 +481,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL35-29.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL35-29.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -493,7 +493,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL36-29.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL36-29.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -506,7 +506,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-29.03.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-29.03.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -517,7 +517,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL37-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL37-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -528,7 +528,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL38-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL38-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -541,7 +541,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL39-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL39-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -555,7 +555,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL40-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL40-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -567,7 +567,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL41-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL41-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -579,7 +579,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL42-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL42-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -592,7 +592,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL43-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL43-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -606,7 +606,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL44-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL44-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -618,7 +618,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL45-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL45-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -629,7 +629,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL46-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL46-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -640,7 +640,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-27.04.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-27.04.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -651,7 +651,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-10.05.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-10.05.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -662,7 +662,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL47-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL47-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -672,7 +672,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL48-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL48-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -684,7 +684,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL49-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL49-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -696,7 +696,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL50-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL50-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -708,7 +708,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL51-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL51-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -720,7 +720,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL52-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL52-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -734,7 +734,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL53-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL53-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -745,7 +745,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL54-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL54-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -757,7 +757,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL55-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL55-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -769,7 +769,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL56-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL56-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -782,7 +782,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL57-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL57-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -793,7 +793,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL58-04.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL58-04.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -806,7 +806,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL59-27.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL59-27.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -820,7 +820,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL60-27.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL60-27.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -830,7 +830,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL61-27.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL61-27.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -842,7 +842,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-27.07.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-27.07.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -853,7 +853,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL62-31.08.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL62-31.08.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -867,7 +867,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL63-31.08.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL63-31.08.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -880,7 +880,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL64-31.08.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL64-31.08.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -891,7 +891,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL65-31.08.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL65-31.08.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -903,7 +903,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL66-31.08.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL66-31.08.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -915,7 +915,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL67-31.08.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL67-31.08.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -927,7 +927,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL68-31.08.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL68-31.08.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -942,7 +942,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL69-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL69-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -953,7 +953,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL70-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL70-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -965,7 +965,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL71-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL71-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -980,7 +980,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL72-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL72-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -995,7 +995,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL73-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL73-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1009,7 +1009,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL74-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL74-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1021,7 +1021,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL75-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL75-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1034,7 +1034,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL76-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL76-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1050,7 +1050,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL77-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL77-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1061,7 +1061,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL78-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL78-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1075,7 +1075,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL79-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL79-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1090,7 +1090,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL80-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL80-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1105,7 +1105,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL81-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL81-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1121,7 +1121,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL82-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL82-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1137,7 +1137,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL83-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL83-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1149,7 +1149,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-27.09.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-27.09.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1160,7 +1160,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL85-31.10.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL85-31.10.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1172,7 +1172,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL86-31.10.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL86-31.10.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1183,7 +1183,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL87-31.10.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL87-31.10.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1196,7 +1196,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL88-31.10.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL88-31.10.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1208,7 +1208,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL89-31.10.2017..pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL89-31.10.2017..pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1220,7 +1220,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL90-31.10.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL90-31.10.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1231,7 +1231,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL91-31.10.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL91-31.10.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1245,7 +1245,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL92-31.10.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL92-31.10.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1258,7 +1258,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL93-31.10.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL93-31.10.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1269,7 +1269,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-31.10.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-31.10.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1280,7 +1280,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL94-28.11.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL94-28.11.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1291,7 +1291,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL95-28.11.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL95-28.11.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1302,7 +1302,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL96-28.11.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL96-28.11.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1314,7 +1314,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL97-28.11.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL97-28.11.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1325,7 +1325,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL98-28.11.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL98-28.11.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1337,7 +1337,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-28.11.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-28.11.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1348,7 +1348,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL99-20.12.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL99-20.12.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1360,7 +1360,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-20.12.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-20.12.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1371,7 +1371,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL100-28.12.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL100-28.12.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1382,7 +1382,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL101-28.12.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL101-28.12.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1395,7 +1395,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL102-28.12.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL102-28.12.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -1407,7 +1407,7 @@ export default function hotarari2017() {
             </div>
           </a>
           <a
-            href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-28.12.2017.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/PVS-28.12.2017.pdf"
             target="_blank"
             rel="noreferrer"
           >

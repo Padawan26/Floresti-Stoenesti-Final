@@ -236,7 +236,7 @@ a.active {
 
 .carousel img {
   max-height: 52rem;
-  min-height: 25rem;
+  min-height: 16rem;
 }
 
 /* Navbar */

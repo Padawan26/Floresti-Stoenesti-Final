@@ -8,7 +8,7 @@ const Mol = () => {
         <div style={{ display: "flex", flexDirection: "column", gap: "2rem" }}>
           <div className="block" style={{ width: "70%", margin: "0 auto" }}>
             <a
-              href="https://floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL93-31.10.2017.pdf"
+              href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/HCL93-31.10.2017.pdf"
               target="_blank"
               rel="noreferrer"
             >

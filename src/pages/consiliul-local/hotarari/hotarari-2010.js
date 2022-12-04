@@ -10,7 +10,7 @@ export default function hotarari2010() {
         <h1>Hotărâri 2010</h1>
         <div className="list">
           <a
-            href="http://test.local/wp-content/uploads/2022/08/Hotarare-Nr58-06-12-2010.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr58-06-12-2010.pdf"
             target="_blank"
             rel="noreferrer"
           >

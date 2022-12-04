@@ -10,7 +10,7 @@ export default function hotarari2012() {
         <h1>Hotărâri 2012</h1>
         <div className="list">
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr1-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr1-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -22,7 +22,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr2-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr2-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -34,7 +34,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr3-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr3-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -45,7 +45,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr4-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr4-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -57,7 +57,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr5-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr5-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -69,7 +69,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr6-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr6-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -80,7 +80,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr7-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr7-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -94,7 +94,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr8-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr8-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -107,7 +107,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr9-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr9-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -119,7 +119,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr10-23-02-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr10-23-02-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -130,7 +130,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr11-12-03-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr11-12-03-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -142,7 +142,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr12-12-03-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr12-12-03-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -153,7 +153,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr13-12-04-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr13-12-04-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -164,7 +164,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr14-12-04-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr14-12-04-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -177,7 +177,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr15-12-04-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr15-12-04-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -189,7 +189,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr16-12-04-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr16-12-04-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -201,7 +201,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr17-12-04-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr17-12-04-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -214,7 +214,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr1-25-06-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr1-25-06-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -224,7 +224,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr2-25-06-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr2-25-06-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -235,7 +235,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr3-25-06-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr3-25-06-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -246,7 +246,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr4-25-06-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr4-25-06-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -257,7 +257,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr5-25-06-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr5-25-06-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -268,7 +268,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr6-25-06-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr6-25-06-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -279,7 +279,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr7-01-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr7-01-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -290,7 +290,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr8-01-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr8-01-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -302,7 +302,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr9-01-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr9-01-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -314,7 +314,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr10-01-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr10-01-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -326,7 +326,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr11-01-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr11-01-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -338,7 +338,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr12-01-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr12-01-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -350,7 +350,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr13-24-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr13-24-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -362,7 +362,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr14-24-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr14-24-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -376,7 +376,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr15-24-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr15-24-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -388,7 +388,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr16-24-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr16-24-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -399,7 +399,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr17-24-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr17-24-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -410,7 +410,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr18-24-08-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr18-24-08-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -421,7 +421,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr19-17-09-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr19-17-09-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -433,7 +433,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr20-17-09-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr20-17-09-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -444,7 +444,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr21-17-09-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr21-17-09-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -456,7 +456,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr22-17-09-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr22-17-09-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -469,7 +469,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr23-17-09-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr23-17-09-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -483,7 +483,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr24-17-09-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr24-17-09-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -494,7 +494,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr25-17-09-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr25-17-09-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -505,7 +505,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr26-17-10-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr26-17-10-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -517,7 +517,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr27-17-10-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr27-17-10-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -529,7 +529,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr28-17-10-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr28-17-10-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -540,7 +540,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr29-17-10-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr29-17-10-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -552,7 +552,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr30-17-10-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr30-17-10-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -563,7 +563,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr31-17-10-2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr31-17-10-2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -574,7 +574,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr32-22.11.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr32-22.11.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -585,7 +585,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr33-22.11.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr33-22.11.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -596,7 +596,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr34-22.11.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr34-22.11.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -608,7 +608,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Proces-Verbal-al-sedintei-ordinare-pe-luna-Noiembrie-din-data-de-22.11.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Proces-Verbal-al-sedintei-ordinare-pe-luna-Noiembrie-din-data-de-22.11.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -619,7 +619,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr35-05.12.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr35-05.12.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -631,7 +631,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr36-05.12.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr36-05.12.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -643,7 +643,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Proces-Verbal-al-sedintei-ordinare-pe-luna-Decembrie-din-data-de-05.12.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Proces-Verbal-al-sedintei-ordinare-pe-luna-Decembrie-din-data-de-05.12.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -655,7 +655,7 @@ export default function hotarari2012() {
           </a>
 
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr37-18.12.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr37-18.12.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -669,7 +669,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr38-18.12.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr38-18.12.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -681,7 +681,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr39-18.12.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr39-18.12.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -693,7 +693,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr40-18.12.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr40-18.12.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -704,7 +704,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr41-18.12.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Hotarare-Nr41-18.12.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -715,7 +715,7 @@ export default function hotarari2012() {
             </div>
           </a>
           <a
-            href="http://floresti-stoenesti.ro/wp-content/uploads/2010/12/Proces-Verbal-al-sedintei-ordinare-pe-luna-Decembrie-din-data-de-18.12.2012.pdf"
+            href="http://staging.floresti-stoenesti.ro/wp-content/uploads/2010/12/Proces-Verbal-al-sedintei-ordinare-pe-luna-Decembrie-din-data-de-18.12.2012.pdf"
             target="_blank"
             rel="noreferrer"
           >
