@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
       <CookieConsent location="top" buttonText="Am inteles!">
       Acest website folosește cookie-uri proprii cât și cookie-uri adăugate de terti, 
       pentru a furniza vizitatorilor o experientă mult mai bună de navigare și servicii 
-      adaptate nevoilor și interesului fiecăruia.
+      adaptate nevoilor și interesului fiecăruia.{" "}
         <a href="https://floresti-stoenesti.ro/politica-de-confidentialitate">
           Politica de Confidentialitate
         </a>

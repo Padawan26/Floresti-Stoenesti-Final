@@ -134,14 +134,20 @@ ul {
 }
 .sideNav ul li a:hover {
   text-decoration: none;
-  color: #fff;
+  color: #fff !important;
   background-color: #0c92da;
 }
 a.active {
   background-color: #0c92da;
-  color: #fff;
+  color: #fff !important;
 }
-
+a.nav-link.active {
+  color: #fff !important;
+}
+.dropdown-item.active{
+  background-color: #0c92da !important;
+  color: #fff !important;
+}
 .content {
   text-align: justify;
   width: 70%;
@@ -263,7 +269,6 @@ a.active {
   color: #638ecf !important;
 }
 .navbar-light .navbar-nav .nav-link {
-  color: #638ecf !important;
   padding: 1.6rem 0.8rem !important;
 }
 .navbar-light .navbar-nav .nav-link:hover {

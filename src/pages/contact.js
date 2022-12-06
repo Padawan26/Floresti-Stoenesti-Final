@@ -75,37 +75,12 @@ const contact = () => {
           <div className={styles.box}>
             <h2>Secretarul general al comunei</h2>
             <article>
-              <p>Secretar General (delegat): Mihai Florin-Cătălin </p>
+              <p>Secretar General (delegat): Matache Alexandru </p>
               <div className={styles.mail}>
                 <GrMail />
                 <a href="mailto:secretar@floresti-stoenesti.ro">
                   secretar@floresti-stoenesti.ro
                 </a>
-              </div>
-              <p>
-                Program de lucru cu publicul: <br /> Luni-Vineri: 8:30-16:30
-              </p>
-            </article>
-          </div>
-          <div className={styles.box}>
-            <h2>Administrator public</h2>
-            <article>
-              <p>Administrator public: Matei Cătălin</p>
-              <div className={styles.mail}>
-                <GrMail />
-                <div className="wide">
-                  <a href="mailto:administrator@floresti-stoenesti.ro">
-                    administrator@floresti-stoenesti.ro
-                  </a>
-                </div>
-              </div>
-              <div className={styles.mail}>
-                <GrMail />
-                <div className="wide">
-                  <a href="mailto:administrator.matei@floresti-stoenesti.ro">
-                    administrator.matei@floresti-stoenesti.ro
-                  </a>
-                </div>
               </div>
               <p>
                 Program de lucru cu publicul: <br /> Luni-Vineri: 8:30-16:30
@@ -179,7 +154,10 @@ const contact = () => {
           <div className={styles.box}>
             <h2>Serviciul taxe și impozite locale</h2>
             <article>
-              <p>Operatori rol: Popescu Elena, Codreanu Steluța </p>
+              <p>Administrator financiar: Popa Marinela </p>
+              <p>Consilier superior: Panait Ionela-Roxana, Popescu Elena</p>
+              <p>Consilier asistent: Codreanu Steluţa, 	Ilie Elena</p>
+              <p>Referent superior: Drugea Cristian, Drugea Eugenia, Dănăilă Petruța</p>
               <div className={styles.mail}>
                 <GrMail />
                 <a href="mailto:taxe@floresti-stoenesti.ro">
@@ -188,10 +166,6 @@ const contact = () => {
               </div>
               <p>
                 Program de lucru cu publicul: <br /> Luni - Vineri: 8:30-14:30
-              </p>
-              <p>Casieri: Drugea Cristian, Drugea Eugenia, Ilie Elena</p>
-              <p>
-                Program de lucru cu publicul: <br /> Luni - Vineri: 8:30-16:30
               </p>
             </article>
           </div>
@@ -222,7 +196,7 @@ const contact = () => {
             <h2>Birou registru agricol</h2>
             <article>
               <p>
-                Referenti agricoli: Duță Aneta, Ivașcu Constantina, Mirică
+                Referenti agricoli: Panait Gîngea Andreea, Ivașcu Constantina, Mirică
                 Mihaela
               </p>
               <div className={styles.mail}>
@@ -240,7 +214,7 @@ const contact = () => {
             <h2>Compartiment IT</h2>
             <article>
               <p>Administrator rețea calculatoare: Barbu Nicolae</p>
-              <p>Tehnician în informatică și comunicații: Dina Constantin</p>
+              <p>Tehnician în informatică și comunicații: Dina Constantin Victor</p>
               <div className={styles.mail}>
                 <GrMail />
                 <a href="mailto:it@floresti-stoenesti.ro">
@@ -316,7 +290,7 @@ const contact = () => {
           <div className={styles.box}>
             <h2>Biroul de resurse umane</h2>
             <article>
-              <p>Consilier: State Elena </p>
+              <p>Consilier: State Elena, Mustățea Valentina Daiana </p>
               <p>
                 Program de lucru cu publicul: <br /> Luni-Vineri: 8:30-14:30
               </p>
@@ -325,7 +299,9 @@ const contact = () => {
           <div className={styles.box}>
             <h2>Achiziţii publice</h2>
             <article>
-              <p>Inspector: Bunica Marius Eugen </p>
+              <p>Consilier superior: Bunica Marius Eugen </p>
+              <p>Referent asistent: Neagu Marius-Theodor</p>
+              <p>Consilier asistent: Achim Andra Maria</p>
               <div className={styles.mail}>
                 <GrMail />
                 <a href="mailto:achizitii@floresti-stoenesti.ro">
@@ -337,7 +313,19 @@ const contact = () => {
           <div className={styles.box}>
             <h2>Consilier Primar</h2>
             <article>
-              <p>Consilier: Bunica Marius-Eugen</p>
+              <p>Consilier: Popa George</p>
+            </article>
+          </div>
+          <div className={styles.box}>
+            <h2>Responsabil SMAM</h2>
+            <article>
+              <p>Responsabil: </p>
+              <div className={styles.mail}>
+                <GrMail />
+                <a href="mailto:smam@floresti-stoenesti.ro">
+                  smam@floresti-stoenesti.ro
+                </a>
+              </div>
             </article>
           </div>
         </div>

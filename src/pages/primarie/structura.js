@@ -26,7 +26,7 @@ const Structura = () => {
             </tr>
             <tr>
               <td>Secretar general</td>
-              <td>Ilie Mădălina</td>
+              <td>Matache Alexandru (delegat)</td>
             </tr>
             <tr>
               <td>Administrator public</td>
@@ -170,7 +170,7 @@ const Structura = () => {
             </tr>
             <tr>
               <td>Consilier asistent</td>
-              <td>Panait Gîngea Andreea</td>
+              <td>Achim Andra Maria</td>
             </tr>
             <tr>
               <td
@@ -267,6 +267,18 @@ const Structura = () => {
             <tr>
               <td>Șofer</td>
               <td>Popescu Mirel</td>
+            </tr>
+            <tr>
+              <td
+                colSpan={2}
+                style={{ fontWeight: "bold", textAlign: "center" }}
+              >
+                RELAȚII CU PUBLICUL
+              </td>
+              </tr>
+            <tr>
+              <td>Administrator</td>
+              <td>Codreanu Adrian-Codruț</td>
             </tr>
           </tbody>
         </Table>

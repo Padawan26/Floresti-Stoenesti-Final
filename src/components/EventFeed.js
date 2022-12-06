@@ -29,7 +29,7 @@ export default function EventFeed() {
   const events = data.allWpMediaItem.nodes
   return (
     <section className="homeBlock">
-      <h1>Evenimente</h1>
+      <h1 style={{marginTop:"2rem"}}>Evenimente</h1>
       <div className={styles.homeEvents}>
         {events.map(event => {
           const pathToImage = getImage(
@@ -40,7 +40,7 @@ export default function EventFeed() {
           if (link) link = link.replace("<p>", "").replace("</p>", "")
           return (
             <div key={event.id} className="event">
-              <h2>{title}</h2>
+              <h2 style={{marginBottom:"1rem"}}>{title}</h2>
               <a href={link} target="_blank" rel="noreferrer">
                 <GatsbyImage image={pathToImage} alt="image" />
               </a>

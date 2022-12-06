@@ -12,6 +12,14 @@ const Organigrama = () => {
           placeholder="tracedSVG"
         />
         <h1 style={{ paddingTop: "2rem", marginBottom: "0" }}>
+          Organigrama - 2019
+        </h1>
+        <StaticImage
+          src="../../images/Organigrama-2019.png"
+          alt="Organigrama an 2019"
+          placeholder="tracedSVG"
+        />
+        <h1 style={{ paddingTop: "2rem", marginBottom: "0" }}>
           Organigrama - 2017
         </h1>
         <StaticImage
