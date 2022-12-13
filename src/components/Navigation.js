@@ -69,6 +69,14 @@ export default function Navigation() {
               <NavDropdown.Item as={Link} eventKey="2.3" to="/primar/mesajul-primarului">
                 Mesajul Primarului
               </NavDropdown.Item>
+              <NavDropdown.Item
+              active={false}
+              href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/12/Declaratia-de-angajament-a-Primarului-Comunei-Floresti-Stoenesti-privind-combaterea-mitei.pdf"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Declaratie privind combaterea mitei
+            </NavDropdown.Item>
             </NavDropdown>
             <NavDropdown as="li" title="Despre Comună">
               <NavDropdown.Item as={Link} eventKey="3.1" to="/despre-comuna/prezentare">
@@ -182,6 +190,7 @@ export default function Navigation() {
               active={false}
               href="https://www.ghiseul.ro/ghiseul/public/"
               target="_blank"
+              rel="noreferrer"
             >
               Ghișeul.ro
             </Nav.Link>

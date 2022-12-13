@@ -53,6 +53,14 @@ export default function NavPrimar() {
               Mesajul Primarului
             </Link>
           </li>
+          <li>
+          <a href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/12/Declaratia-de-angajament-a-Primarului-Comunei-Floresti-Stoenesti-privind-combaterea-mitei.pdf"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Declaratie privind combaterea mitei
+              </a>
+          </li>
         </ul>
       </nav>
     </>
