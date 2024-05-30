@@ -1,0 +1,73 @@
+.person-box {
+  border: 1px solid #ddd;
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.person-name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.document-section {
+  margin-top: 20px;
+}
+
+.document-link {
+  display: block;
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.document-link:hover {
+  text-decoration: underline;
+}
+.buttonContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem; /* Echivalentul a 10px */
+  margin-top: 1.25rem; /* Echivalentul a 20px */
+  text-align: center;
+}
+
+.yearButton {
+  padding: 0.625rem 1.25rem; 
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 0.3125rem; 
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  flex: 1;
+  max-width: 12.5rem; 
+  font-size: 1rem; 
+}
+
+.yearButton:hover {
+  background-color: #0056b3;
+}
+
+.selectedYear {
+  margin-top: 1.25rem; 
+  padding: 1.25rem; 
+  border: 0.0625rem solid #ddd;
+}
+
+.selectedYear h2{
+  text-align: center;
+  color: #d6794d;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.heading{
+  padding-top: 2rem;
+}
+.row.justify-content-between {
+  display: flex;
+  justify-content: space-between;
+}

@@ -8,8 +8,8 @@ const Hero = () => {
     <Carousel fade pause={"hover"}>
       <Carousel.Item>
         <StaticImage
-          className="d-block width-100"
-          src="../images/Slide 1.jpg"
+          className="d-block"
+          src="../images/Slide 1.jpeg"
           alt="First slide"
           placeholder="tracedSVG"
         />
@@ -20,22 +20,66 @@ const Hero = () => {
       <Carousel.Item>
         <StaticImage
           className="d-block"
-          src="../images/Slide 2.jpg"
+          src="../images/Slide 2.jpeg"
           alt="Second slide"
           placeholder="tracedSVG"
         />
-        <Carousel.Caption className="slide-2">
+        <Carousel.Caption className="slide-1">
           <h4 className="hero-caption">Florești-Stoenești</h4>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <StaticImage
           className="d-block"
-          src="../images/Slide 3.jpg"
+          src="../images/Slide 3.jpeg"
           alt="Third slide"
           placeholder="tracedSVG"
         />
-        <Carousel.Caption className="slide-3">
+        <Carousel.Caption className="slide-1">
+          <h4 className="hero-caption">Florești-Stoenești</h4>
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <StaticImage
+          className="d-block"
+          src="../images/Slide 4.jpeg"
+          alt="Third slide"
+          placeholder="tracedSVG"
+        />
+        <Carousel.Caption className="slide-1">
+          <h4 className="hero-caption">Florești-Stoenești</h4>
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <StaticImage
+          className="d-block"
+          src="../images/Slide 5.jpeg"
+          alt="Third slide"
+          placeholder="tracedSVG"
+        />
+        <Carousel.Caption className="slide-1">
+          <h4 className="hero-caption">Florești-Stoenești</h4>
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <StaticImage
+          className="d-block"
+          src="../images/Slide 6.jpeg"
+          alt="Third slide"
+          placeholder="tracedSVG"
+        />
+        <Carousel.Caption className="slide-1">
+          <h4 className="hero-caption">Florești-Stoenești</h4>
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <StaticImage
+          className="d-block"
+          src="../images/Slide 7.jpeg"
+          alt="Third slide"
+          placeholder="tracedSVG"
+        />
+        <Carousel.Caption className="slide-1">
           <h4 className="hero-caption">Florești-Stoenești</h4>
         </Carousel.Caption>
       </Carousel.Item>

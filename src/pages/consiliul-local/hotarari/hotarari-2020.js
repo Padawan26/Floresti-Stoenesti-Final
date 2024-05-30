@@ -312,7 +312,7 @@ export default function hotarari2020() {
             </div>
           </a>
           <a
-            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2020/HCL19-27.08.2020.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL19-27.08.2020.pdf"
             target="_blank"
             rel="noreferrer"
           >

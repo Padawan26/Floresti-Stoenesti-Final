@@ -1,0 +1,30 @@
+/* ConsiliulLocal.module.css */
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* creează trei coloane de dimensiuni egale */
+    gap: 1rem; /* adaugă spațiu între carduri */
+  }
+  
+  .card {
+    border: 1px solid #ccc; /* o bordură subtilă */
+    padding: 1rem;
+    text-align: center; /* centrază textul */
+  }
+  
+  .imagine {
+    width: 100%; /* face ca imaginea să ocupe toată lățimea cardului */
+    height: auto; /* menține proporțiile imaginii */
+    margin-bottom: 1rem; /* spațiu sub imagine */
+  }
+  
+  .nume {
+    font-size: 1.2rem; /* mărește dimensiunea fontului pentru nume */
+    color: #333; /* culoare pentru text */
+  }
+  
+  .apartenenta {
+    font-size: 0.9rem; /* dimensiune mai mică pentru apartenență */
+    color: #666; /* o culoare mai subtilă */
+  }
+  

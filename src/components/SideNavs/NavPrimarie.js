@@ -8,22 +8,22 @@ export default function NavPrimarie() {
       <NavHeader />
       <nav className={styles.nav}>
         <ul className={styles.nav}>
-          <li>
-            <Link
-              className={styles.link}
-              activeClassName="active"
-              to="/primarie/cetateni"
-            >
-              Cetățeni de onoare
-            </Link>
-          </li>
-          <li>
+        <li>
             <Link
               className={styles.link}
               activeClassName="active"
               to="/primarie/conducere"
             >
               Conducere
+            </Link>
+          </li>
+          <li>
+            <Link
+              className={styles.link}
+              activeClassName="active"
+              to="/primarie/structura"
+            >
+              Structura
             </Link>
           </li>
           <li>
@@ -39,18 +39,9 @@ export default function NavPrimarie() {
             <Link
               className={styles.link}
               activeClassName="active"
-              to="/primarie/proiecte"
-            >
-              Proiecte
-            </Link>
-          </li>
-          <li>
-            <Link
-              className={styles.link}
-              activeClassName="active"
               to="/primarie/registru"
             >
-              Registrul Comerțului
+              Registrul Agricol
             </Link>
           </li>
           <li>
@@ -66,9 +57,18 @@ export default function NavPrimarie() {
             <Link
               className={styles.link}
               activeClassName="active"
-              to="/primarie/structura"
+              to="/primarie/cetateni"
             >
-              Structura
+              Cetățeni de onoare
+            </Link>
+          </li>
+          <li>
+            <Link
+              className={styles.link}
+              activeClassName="active"
+              to="/primarie/proiecte"
+            >
+              Proiecte
             </Link>
           </li>
         </ul>

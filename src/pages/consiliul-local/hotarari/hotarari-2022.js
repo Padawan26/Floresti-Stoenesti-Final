@@ -98,7 +98,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL08-07.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/02/HCL08-07.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -108,7 +108,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL09-07.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/02/HCL09-07.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -120,7 +120,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL10-07.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/02/HCL10-07.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -132,7 +132,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL11-07.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/02/HCL11-07.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -144,7 +144,7 @@ export default function hotarari2022() {
             </div>
           </a>
           <a
-            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/01/HCL12-15.02.2022.pdf"
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2022/02/HCL12-15.02.2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -548,6 +548,496 @@ export default function hotarari2022() {
             conformitate cu prevederile art. 1, art. 3, lit. o), art. 4, alin.(1), 
             lit. a),, art. 187, alin. (8), lit. a) din Legea nr. 98/2016 privind 
             achizițiile publice"
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/PVS09-06.06.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Procesul Verbal, încheiat astăzi 06.06.2022, în ședința ordinară a Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL44-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.44, privind apropabarea Regulamentului și a taxelor de utilizare pentru terenul multi sport în satul Florești.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL45-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.45, privind apropabarea achiziționării unui serviciu juridic de asistență și reprezentare în Dosarul civil nr.69/192/2020 aflat pe rolul Tribunalului Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL46-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.46, privind apropabarea achiziționării unui serviciu juridic de asistență și reprezentare în Dosarul civil nr.1546/2/2022 aflat pe rolul Curții de Apel București.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL47-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.47, privind apropabarea achiziționării unui serviciu juridic de asistență și reprezentare în Dosarul civil nr.4089/192/2020 aflat pe rolul Curții de Apel București.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL48-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.48, privind apropabarea achiziționării unui serviciu juridic de asistență și reprezentare în Dosarul civil nr.4142/192/2019 aflat pe rolul Tribunalului Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL49-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.49, privind apropabarea achiziționării unui serviciu juridic de asistență și reprezentare în Dosarul civil nr.4727/192/2021 aflat pe rolul Judecătoriei Bolintin Vale.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL50-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.50, privind mandatarea reprezentantului comunei să aprobe modificările Caietului de Sarcini al serviciului de alimentare cu apă și de canalizare și ale Regulamentului Serviciului și mandatarea Asociației de Dezvoltare Intercomunitară Euro-Apa să aprobe modificările Contractului de delegare a gestiunii serviciului public de alimentare cu apă și canalizare.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL51-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.51, privind stabilirea condițiilor în care se acordă către SC RCS & RDS SA dreptul de acces pe domeniul public al comunei Florești-Stoenești, în vederea instalării unor echipamente de comunicații electronice și a infrastructurii fizice necesare susținerii acestora ("Stație de bază").
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL52-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.52, privind apropabarea contului de execuție al bugetului de venituri și cheltuieli al comunei Florești-Stoenești, județul Giurgiu pentru trimestrul II al anului 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL53-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.53, privind rectificarea Bugetului de Venituri și Cheltuieli al comunei Florești-Stoenești, Județul Giurgiu și actualizarea listei de investiții pe anul 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL54-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.54, cu privire la alegerea președintelui de ședință.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/PVS10-18.07.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 18.07.2022, în ședința ordinară Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL55-31.08.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.55, privind rectificarea Bugetului de Venituri și Cheltuieli al comunei Florești-Stoenești, Județul Giurgiu și actualizarea listei de investiții pe anul 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL56-31.08.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.56, privind aprobarea plății în cuantum de 137.399,10 lei, reprezentant contravaloarea bunurilor imobile aferente Circumscripției Sanitar - Veterinare Florești-Stoenești, aflate în proprietatea privată a statului și în administrarea Agenției Domeniilor Statului.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL57-31.08.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.57, privind introducerea în domeniul public al comunei Florești-Stoenești, ca urmare a recepției, a investițiilor "Alimentare cu apă în satul Florești, comuna Florești-Stoenești, județul Giurgiu".
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL58-31.08.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.58, privind aprobarea Documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici inițiali și actualizați și a devizului general al obiectivului de investiții "Reabilitare drum de legătură între DJ401A și DJ404, comuna Florești-Stoenești, județul Giurgiu", inițial și actualizat.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/PVS11-31.08.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 31.08.2022, în ședința ordinară Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL59-12.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.59, privind aprobarea valorii unui număr de 2 stații de încărcare pentru vehiculele electrice - cu două puncte de reîncărcare per stație - pentru proiectul aferent solicitării de finanțare depuse în cadrul Componenței 10 - Fondul Local - I.1.4 "Amenajare piste bicilete în Comuna Florești-Stoenești Județul Giurgiu".
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL60-12.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.60, privind aprobarea cofinanțării pentru "Proiectul regional de dezvolatare a infrastructurii de apă și apă uzată din aria de operare a Euro Apavol SA".
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL61-12.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.61, privind aprobarea atribuirii în folosință cu titlu gratuit a unui spațiu din domeniul privat al comunei Florești-Stoenești către Inspectoratul de poliție Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL62-12.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.62, privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru "Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din aria de operare Euro Apavol SA, în perioada 2014-2020.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/PVS12-12.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 12.09.2022, în ședința extraordinară Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL63-21.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.63, privind aprobarea cheltuielilor eligibile și neeligibile, pentru "I.4-Elaborarea/actualizarea în format GIS a documentelor de amenajare a teritoriului și de planificare urbană" în comuna Florești-Stoenești prin PNRR/2022/C10.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/PVS13-21.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 21.09.2022, în ședința extraordinară de îndată a Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL64-29.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.64, privind completarea HCL nr.37/2022 cu privire la aprobarea Studiului de oportunitate, Regulamentului și Caietului de sarcini pentru delegarea gestiunii Serviciului de salubrizare al Comunei Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL65-29.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.65, privind aprobarea vânzării fără licitație publică (directă) a unui teren în suprafață de 288 m.p. situat în satul Palanca, strada Domnească, nr.93, proprietatea UAt Florești-Stoenești conform HCL nr.6/10.02.2016, înscris în Cartea funciară nr.33431.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL66-29.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.66, privind rectificarea Bugetului de Venituri și Cheltuieli al comunei Florești-Stoenești, Județul Giurgiu pe anul 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/PVS14-29.09.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 29.09.2022, în ședința ordinară Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL67-13.10.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.67, privind aprobarea depunerii proiectului "Extindere și modernizare sistem de monitorizare și siguranță a spațiului public și a centrului de monitorizare în timp real" în comuna Florești-Stoenești, județul Giurgiu în cadrul PNRR/2022/C10/I.I.2 și a cheltuielilor legate de acest proiect.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/PVS15-13.10.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 13.10.2022, în ședința extraordinară de îndată pe luna octombrie a Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL68-31.10.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.68, referitor la trecerea din domeniul privat al statului la administrarea Agenției Domeniilor Statului în domeniul privat al comunei Florești-Stoenești și administrarea Consiliului Local Florești-Stoenești și efectuarea plății în cuantum de 137.399,10 lei, reprezentând contravaloarea bunurilor imobile aferente Circumscripției Sanitar - Veterinare Florești-Stoenești.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL69-31.10.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.69, privind mandatarea Asociației de Dezvoltare Intercomunitară Euro-Apă și a reprezentantului Unității Administrativ Teritoriale comuna Florești-Stoenești să aprobe Strategia tarifară conform rezultatelor Analizei Cost-Beneficiu pentru "Proiectul regional de dezvoltare a infrastucturii de apă și apă uzată din aria de operare a S.C Euro Apavol S.A., în perioada 2014-2020", actualizată, precum și modificările Contractului de delegare a gestiunii serviciului public de alimentare cu apă și canalizare.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL70-31.10.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.70, privind aprobarea contului de execuție al bugetului de venituri și cheltuieli al comunei Florești-Stoenești, județul Giurgiu pentru trimestrul III al anului 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL71-31.10.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.71, privind aprobarea noului model de contract pentru delegarea gestiunii Serviciului de salubrizare al Comunei Floresti-Stoenesti, judetul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL72-31.10.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.72, cu privire la alegerea presedintelui de sedinta.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/PVS16-31.10.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 31.10.2022, în ședința ordinară pe luna octombrie a Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/HCL73-08.11.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.73, privind rectificarea Bugetului de Venituri și Cheltuieli al comunei Florești-Stoenești, Județul Giurgiu și actualizarea listei de investiții pe anul 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/PVS17-08.11.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 08.11.2022, în ședința extraordinară de îndată pe luna noiembrie a Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/HCL74-29.11.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărâre Nr.74, privind rectificarea Bugetului de Venituri și Cheltuieli al comunei Florești-Stoenești, Județul Giurgiu pe anul 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/HCL75-29.11.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.75, privind aprobarea achiziționării unui serviciu juridic de asistență și reprezentare în Dosarul civil nr.8190/2/2022 aflat pe rolul Curții de Apel București Obiectivul dosarului - Litigiu privind achizițiile publice-contestație atribuire dec. nr.2333/C1/2402/07.11.2022, Pârât - U.A.T. Comună Florești-Stoenești.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/HCL76-29.11.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.76, privind aprobarea emiterii Acordului de reabilitare pentru accesul pe drumul de exploatare DE404/A1 tronsonul situat între DJ 401A și DC148 cu camioane de mare tonaj solicitat de S.C CLASS BETON AGREGATE S.R.L.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/PVS18-29.11.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 29.11.2022, în ședința ordinară Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/HCL78-14.12.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.78, privind rectificarea Bugetului de Venituri și Cheltuieli al comunei Florești-Stoenești, Județul Giurgiu și actualizarea listei de investiții pe anul 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/HCL79-14.12.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.79, privind aprobarea achiziționării unui serviciu juridic de asistență și reprezentare în Dosarul civil nr.24955/3/2019** aflat pe rolul Curții de Apel București, Intimat-Chemat în garanție - Comuna Florești-Stoenești.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/HCL80-14.12.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.80, privind aprobarea achiziționării de cadouri pentru copiii în vârstă de 0-14 ani din comuna Florești-Stoenești cu ocazia sărbătorilor de iarnă.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/PVS19-14.12.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 14.12.2022, în ședința ordinară Consiliului Local Florești-Stoenești, județul Giurgiu.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/HCL81-23.12.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Hotărârea Nr.81, privind rectificarea Bugetului de Venituri și Cheltuieli al comunei Florești-Stoenești, Județul Giurgiu și actualizarea listei de investiții pe anul 2022.
+              <VscFilePdf style={style} />
+            </div>
+          </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/04/PVS20-23.12.2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+            Proces Verbal, încheiat astăzi 23.12.2022, în ședința extraordinară cu convocare de îndată Consiliului Local Florești-Stoenești, județul Giurgiu.
               <VscFilePdf style={style} />
             </div>
           </a>

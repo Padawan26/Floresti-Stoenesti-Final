@@ -20,6 +20,16 @@ const Dispozitii = () => {
               <VscFilePdf style={style} />
             </div>
           </a>
+          <a
+            href="https://staging.floresti-stoenesti.ro/wp-content/uploads/2023/03/Dispozitia-primarului-nr-0095-2022.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="pdf">
+              Dispozitia primarului nr.0095/2022
+              <VscFilePdf style={style} />
+            </div>
+          </a>
         </div>
       </main>
       <div className="sideNav">

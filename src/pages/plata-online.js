@@ -14,7 +14,7 @@ export default function Plata() {
           <p>Iată cum puteți obține online datele de acces la Ghiseul.ro:</p>
           <h2>Pasul 1</h2>
           <p>
-            Accesează adresa <a href="www.ghiseul.ro">www.ghiseul.ro</a>.
+            Accesează adresa <a href="https://www.ghiseul.ro/ghiseul/public/">www.ghiseul.ro</a>.
           </p>
           <p>
             Pe prima pagină de pe site-ul ghiseul.ro accesați secțiunea numită:

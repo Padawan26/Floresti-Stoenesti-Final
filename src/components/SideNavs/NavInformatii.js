@@ -62,6 +62,15 @@ export default function NavInformatii() {
               Formulare
             </Link>
           </li>
+          <li>
+            <Link
+              className={styles.link}
+              activeClassName="active"
+              to="/informatii/rapoarte"
+            >
+              Rapoarte de Activitate
+            </Link>
+          </li>
         </ul>
       </nav>
     </>

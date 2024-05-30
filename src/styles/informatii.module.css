@@ -1,0 +1,47 @@
+.container {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 1.25rem;
+    background: #fff; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    text-align: center;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eaeaea; 
+    margin-bottom: 1rem;
+  }
+  
+  .section {
+    margin-bottom: 1rem;
+  }
+  
+  .sectionTitle {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .sectionContent {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .listItem {
+    padding: 0.5rem 0;
+  }
+  
+  .link {
+    color: #0056b3;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .link:hover {
+    color: #003580;
+  }

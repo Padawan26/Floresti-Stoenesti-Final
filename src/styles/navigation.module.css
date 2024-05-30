@@ -4,12 +4,14 @@
   text-align: center;
   padding-left: 0.5rem;
   line-height: 1.5rem;
+  color: #004172;
 }
 .logo {
   display: flex;
   align-items: center;
   justify-content: center;
   text-transform: uppercase;
+  border-bottom: none !important;
 }
 .poza {
   width: 80px;
@@ -17,3 +19,19 @@
 .logo p {
   margin: 0;
 }
+.header-divider {
+  background-color: #ff7255; 
+
+}
+@media (max-width: 768px) {
+  .subMenuDropDown .dropdown-menu {
+    position: static !important; /* Submeniul nu mai este poziționat absolut */
+    left: auto !important; /* Eliminăm poziționarea la stânga */
+    width: 100%; /* Submeniul se întinde pe toată lățimea părintelui său */
+    /* Alte ajustări pentru a face submeniul să apară în jos în loc de lateral */
+  }
+}
+.nav-item:active > .subMenuDropDown .dropdown-menu,
+  .nav-item:focus > .subMenuDropDown .dropdown-menu {
+    display: block !important;
+  }

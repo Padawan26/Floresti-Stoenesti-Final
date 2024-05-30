@@ -1,0 +1,47 @@
+.container {
+    max-width: 60rem;
+    margin: auto; /* Spațiu mai mare sus și jos pentru a împinge containerul mai jos */
+    padding: 2rem; /* Spațiu în interiorul containerului */
+    background: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Umbră mai pronunțată pentru distincție */
+  }
+  
+  .imageWrapper {
+        text-align: center; /* Centrăm imaginea */
+        margin: 2rem 0;
+    }
+  
+  .image {
+    max-width: 100%; /* Asigură-te că imaginea este receptivă și se mărește pe lățimea container-ului */
+    height: auto; /* Menține proporția imaginii */
+    border-radius: 0.25rem;
+    display: block; /* face ca imaginea să fie bloc, ceea ce permite centrarea cu text-align pe wrapper */
+    margin: 0 auto; /* Centrare orizontală */
+  }
+
+    .legislationButton {
+        display: block; /* Sau 'inline-block' dacă preferi */
+        margin: 1rem auto; /* Auto pe marginile laterale pentru a centra blocul */
+        padding: 0.5rem 1rem;
+        background-color: transparent;
+        color: #0056b3;
+        text-align: center;
+        text-decoration: none;
+        border: 2px solid #0056b3;
+        border-radius: 0.25rem;
+        font-size: 1.25rem;
+        cursor: pointer;
+     }
+  
+  .legislationButton:hover, 
+  .legislationButton:focus {
+        background-color: #0056b3; /* Schimbăm fundalul la hover/focus */
+        color: #ffffff; /* Textul devine alb la hover/focus */
+        outline: none; /* Eliminăm outline-ul albastru implicit la focus */
+    }
+    .buttonWrapper {
+        display: flex; /* Folosim flexbox pentru a centra butonul */
+        justify-content: center; /* Centram conținutul pe axa orizontală */
+        margin: 1rem 0; /* Spațiu în jurul wrapper-ului butonului */
+      }

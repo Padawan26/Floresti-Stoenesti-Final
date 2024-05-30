@@ -1,0 +1,41 @@
+.comunicateContainer {
+    max-width: 50rem; 
+    margin: 0 auto;
+    padding: 1.25rem; 
+  }
+  
+  .comunicateList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .comunicateItem {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    padding: 0.625rem; 
+    margin-bottom: 0.625rem; 
+    border-radius: 0.3125rem; 
+    transition: background-color 0.3s ease;
+  }
+  
+  .comunicateItem:hover {
+    background-color: #e9ecef;
+  }
+  
+  .comunicateLink {
+    color: #0056b3;
+    text-decoration: none;
+    display: block; 
+    padding: 0.625rem; 
+  }
+  
+  .comunicateLink:hover {
+    text-decoration: underline;
+  }
+  .comunicateDate {
+    font-size: 0.875rem; /* Mai mic decât textul standard, de exemplu */
+    color: #666; /* O culoare subtilă */
+    margin-top: 0.25rem; /* Spațiu între link și dată */
+    margin-left: 0.65rem;
+  }

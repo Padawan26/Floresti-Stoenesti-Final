@@ -37,7 +37,7 @@ const HartaSite = () => {
             </li>
             <li>
             <MdOutlineSubdirectoryArrowRight className="subarrow" size={25} />
-              <Link to="/primarie/registru">Registru Agricol</Link>
+              <Link to="/primarie/registru">Registrul Agricol</Link>
             </li>
             <li className="ms">
               <HiArrowNarrowRight size={25} /> 
@@ -183,7 +183,7 @@ const HartaSite = () => {
             </li>
             <li>
             <MdOutlineSubdirectoryArrowRight size={25} />
-              <Link to="/informatii/petitii-sesizari">Petiții/Sesizari</Link>
+              <Link to="/informatii/rapoarte">Rapoarte de Activitate</Link>
             </li>
             <li>
             <MdOutlineSubdirectoryArrowRight size={25} />

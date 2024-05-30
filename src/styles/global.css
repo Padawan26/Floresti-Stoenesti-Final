@@ -45,17 +45,6 @@ h1 {
   text-shadow: -1.5px 0 #d6794d, 0 1.5px #d6794d, 1.5px 0 #d6794d,
     0 -1.5px #d6794d;
 }
-.slide-2 {
-  margin-top: 20rem;
-  text-shadow: -1.5px 0 #d6794d, 0 1.5px #d6794d, 1.5px 0 #d6794d,
-    0 -1.5px #d6794d;
-}
-.slide-3 {
-  margin-top: 20rem;
-  text-shadow: -1.5px 0 #d6794d, 0 1.5px #d6794d, 1.5px 0 #d6794d,
-    0 -1.5px #d6794d;
-}
-
 .siteWrapper h1,
 h2 {
   color: #919191;
@@ -135,17 +124,17 @@ ul {
 .sideNav ul li a:hover {
   text-decoration: none;
   color: #fff !important;
-  background-color: #0c92da;
+  background-color:  #004172;
 }
 a.active {
-  background-color: #0c92da;
+  background-color:  #004172;
   color: #fff !important;
 }
 a.nav-link.active {
   color: #fff !important;
 }
 .dropdown-item.active{
-  background-color: #0c92da !important;
+  background-color:  #004172 !important;
   color: #fff !important;
 }
 .content {
@@ -239,7 +228,11 @@ a.nav-link.active {
 }
 
 /* / */
-
+.d-block{
+  object-fit: cover;
+  object-position: center;
+  overflow: hidden;
+}
 .carousel img {
   max-height: 52rem;
   min-height: 16rem;
@@ -250,6 +243,7 @@ a.nav-link.active {
 .navContainer {
   width: 80%;
   margin: 0 auto;
+  box-shadow: 0px 10px 0px 0px rgb(0 0 0 / 15%);
 }
 .navbar {
   align-items: stretch;
@@ -262,18 +256,18 @@ a.nav-link.active {
 }
 .nav-item,
 .nav-link {
-  font-size: 1rem;
+  font-size: 1.1rem;
   height: 100%;
 }
 .navbar a {
-  color: #638ecf !important;
+  color: #004172 !important;
 }
 .navbar-light .navbar-nav .nav-link {
   padding: 1.6rem 0.8rem !important;
 }
 .navbar-light .navbar-nav .nav-link:hover {
   color: white !important;
-  background-color: #0c92da;
+  background-color:  #004172;
 }
 .dropdown-item {
   font-size: 0.9rem;
@@ -281,9 +275,21 @@ a.nav-link.active {
 }
 .dropdown-item:hover {
   color: white !important;
-  background-color: #0c92da !important;
+  background-color:  #004172 !important;
 }
-
+.subMenuDropDown {
+  font-size: 0.9rem !important;
+  position: relative;
+}
+.subMenuDropDown .dropdown-menu{
+  position: absolute !important;
+  left: 100% !important;
+  top: 0 !important;
+  display: none;
+}
+.nav-item:hover > .subMenuDropDown .dropdown-menu {
+  display: block !important;
+}
 /* / */
 
 /* Adrese utile */
@@ -424,11 +430,14 @@ a.nav-link.active {
     justify-content: space-between !important;
   }
 }
-@media (max-width: 1250px) {
+@media (max-width: 1400px) {
   .pageContainer,
   .navContainer,
   .header-container {
     width: 90%;
+  }
+  .navbar a {
+    border-bottom: #004172 solid 2px;
   }
 }
 /* @media (max-width: 900px) {

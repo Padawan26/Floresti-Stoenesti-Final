@@ -3,7 +3,6 @@ import * as styles from "../styles/acte.module.css"
 const ActeUrabnism = () => {
   return (
     <article className={styles.acte}>
-      <h1>Urbanism</h1>
       <h2>Acte necesare emiterii Certificatului de Urbanism</h2>
       <ul>
         <li>

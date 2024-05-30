@@ -8,6 +8,40 @@ const Hotarari = () => {
       <main className="content">
         <h1>Hotarari</h1>
         <div className="blocks">
+        <div className="block">
+            <Link to="./hotarari-2024" style={{ textDecoration: "none" }}>
+              <h2
+                className="block-link"
+                style={{
+                  borderBottom: "1px solid #dfdfdf",
+                  paddingBottom: "5px",
+                }}
+              >
+                Hotărâri 2024
+              </h2>
+            </Link>
+            <p>
+              Hotărâri adoptate de către Consiliul Local Floreşti-Stoeneşti în
+              anul 2024.
+            </p>
+          </div>
+        <div className="block">
+            <Link to="./hotarari-2023" style={{ textDecoration: "none" }}>
+              <h2
+                className="block-link"
+                style={{
+                  borderBottom: "1px solid #dfdfdf",
+                  paddingBottom: "5px",
+                }}
+              >
+                Hotărâri 2023
+              </h2>
+            </Link>
+            <p>
+              Hotărâri adoptate de către Consiliul Local Floreşti-Stoeneşti în
+              anul 2023.
+            </p>
+          </div>
           <div className="block">
             <Link to="./hotarari-2022" style={{ textDecoration: "none" }}>
               <h2
